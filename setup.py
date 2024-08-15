@@ -23,7 +23,7 @@ setup(
 name='MachineLearning-Project',
 version= '0.0.1',
 author='Fahad',
-author_email='fahadsarfraz@gmail.com',
+author_email='fahadsarfraz81@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 )
